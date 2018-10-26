@@ -6,3 +6,4 @@ vuejs webpack mintUI
 ##项目截图
 
 
+![Image text](https://github.com/yueqjGithub/tzmanager/blob/master/img-floader/2018-10-26_104406.png)
